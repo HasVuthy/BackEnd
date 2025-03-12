@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.main{
+    width: 50%;
+    /* height: 200px; */
+    margin: 0 auto;
+}
+.main form{
+    padding: 15px;
+    box-shadow: 10px 8px 9px rgb(225, 214, 214);
+}
+form .photo{
+    width: 100px;
+    height: 100px;
+    background-image: url(../img/img3/1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.photo input{
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+}
+.table{
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+.table .img td img{
+    width: 60px;
+    height: 60px;
+}
