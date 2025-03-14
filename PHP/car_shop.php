@@ -14,6 +14,7 @@
     <header>
         <h1 align="center">My Car Shop</h1>
         <p align="center">Please Check Your Favorite Car in My Car Shop</p>
+        <a class="btn btn-success" href="../PHP/exercise2.php">Add More Product</a>
     </header>
     <div class="border"></div>
     <div class="container">

@@ -4,8 +4,11 @@
     box-sizing: border-box;
 }
 header{
-    background-color: black;
+    /* background-color: black; */
     color: white;
+}
+header a{
+    margin-bottom: 50px;
 }
 .container .row .content{
     position: relative;

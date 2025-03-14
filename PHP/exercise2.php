@@ -85,6 +85,7 @@
 </head>
 <body>
     <div class="main">
+    <a class="btn btn-primary" href="../PHP/car_shop.php">Go to visit</a>
         <form action="exercise2.php" enctype="multipart/form-data" method="post">
             <label for="id">ID</label>
             <input type="text" name="tid" value="<?php echo $getcartID ?>" id="id" placeholder="Input ID " class="form-control">
